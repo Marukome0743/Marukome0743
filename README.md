@@ -1,6 +1,6 @@
 <h1 align="center">🅼🅰🆁🆄🅺🅾🅼🅴 マルコメ🥳</h1>
 
-<img src="./images/profile.webp" alt="profile" hight="250" width="250" align="right">
+<img src="./images/profile.webp" alt="profile" hight="280" width="280" align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=Marukome0743&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marukome0743&layout=compact&theme=tokyonight" alt="profile">
 
