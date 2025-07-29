@@ -33,3 +33,5 @@ Go                 19 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="./images/programming.webp" alt="programming" hight="720" width="1280" align="center">
