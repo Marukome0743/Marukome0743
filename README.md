@@ -18,20 +18,20 @@
 [<img src="https://img.shields.io/badge/Nginx-009639?labelColor=000000&logo=nginx&style=for-the-badge">](https://nginx.org/)
 [<img src="https://img.shields.io/badge/Docker-2496ED?labelColor=000000&logo=docker&style=for-the-badge">](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/Linux-FCC624?labelColor=000000&logo=linux&style=for-the-badge">](https://kernel.org/)
-[<img src="https://img.shields.io/badge/AWS-232F3E?labelColor=000000&logo=amazonwebservices&style=for-the-badge">](https://aws.amazon.com/)
 [<img src="https://img.shields.io/badge/Git-F05032?labelColor=000000&logo=git&style=for-the-badge">](https://git-scm.com/)
-[<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?labelColor=000000&style=for-the-badge">](https://code.visualstudio.com/)
 
 <h2 align="center">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</h2>
 
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      20 hrs 14 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.31 %
-Markdown                   7 hrs 29 mins   🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.85 %
-YAML                       2 hrs 12 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.14 %
-TypeScript                 1 hr 55 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.37 %
-JavaScript                 1 hr 52 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.21 %
+Other              18 hrs 5 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.82 %
+C++                9 hrs 17 mins   🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.71 %
+YAML               1 hr 33 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.97 %
+Markdown           1 hr 13 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.92 %
+Go                 19 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.02 %
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="./images/programming.webp" alt="programming" hight="720" width="1280" align="center">
