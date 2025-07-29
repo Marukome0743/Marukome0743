@@ -1,8 +1,10 @@
 <h1 align="center">🅼🅰🆁🆄🅺🅾🅼🅴 マルコメ🥳</h1>
 
-<img src="./images/profile.webp" alt="profile" height="260" width="260" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=Marukome0743&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marukome0743&layout=compact&theme=tokyonight" alt="profile">
+<div align="center">
+  <img src="./images/profile.webp" alt="profile" height="260" width="260" align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marukome0743&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marukome0743&layout=compact&theme=tokyonight" alt="profile">
+</div>
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
 
@@ -34,4 +36,4 @@ Go                 19 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<img src="./images/programming.gif" alt="programming" height="720" width="1280" align="center">
+<img src="./images/programming.gif" alt="programming" height="360" width="640" align="center">
