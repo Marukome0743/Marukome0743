@@ -1,9 +1,9 @@
 <h1 align="center">🅼🅰🆁🆄🅺🅾🅼🅴 マルコメ🥳</h1>
 
 <div align="center">
-  <img src="./images/profile.webp" alt="profile" height="260" width="260" align="right">
+  <img src="./images/programming.gif" alt="programming" height="360" width="640">
   <img src="https://github-readme-stats.vercel.app/api?username=Marukome0743&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marukome0743&layout=compact&theme=tokyonight" alt="profile">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marukome0743&layout=compact&theme=tokyonight" alt="top-languages">
 </div>
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              18 hrs 5 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.82 %
-C++                9 hrs 17 mins   🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.71 %
-YAML               1 hr 33 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.97 %
-Markdown           1 hr 13 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.92 %
-Go                 19 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.02 %
+Other         21 hrs 28 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.95 %
+C++           11 hrs 39 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.73 %
+TypeScript    3 hrs 29 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.60 %
+Markdown      1 hr 30 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.70 %
+YAML          58 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.41 %
 ```
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="./images/programming.gif" alt="programming" height="360" width="640">
-</div>
+<a html= align="center">
+  <img src="https://algora.io/og/user/Marukome0743" />
+</a>
