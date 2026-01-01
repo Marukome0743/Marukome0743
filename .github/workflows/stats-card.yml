@@ -1,0 +1,47 @@
+name: 🃏 Update README cards
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      checks: write
+      statuses: write
+      contents: write
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: 🎴 Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🃏 Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 💾 Commit cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh api graphql \
+          -F githubRepository=$REPO \
+          -F branchName="main" \
+          -F expectedHeadOid=$(git rev-parse HEAD) \
+          -F commitMessage="docs: update README cards" \
+          -F files[][path]="profile/stats.svg" -F files[][contents]=$(base64 -w0 profile/stats.svg) \
+          -F files[][path]="profile/top-langs.svg" -F files[][contents]=$(base64 -w0 profile/top-langs.svg) \
+          -F "query=@.github/api/createCommitOnBranch.gql"

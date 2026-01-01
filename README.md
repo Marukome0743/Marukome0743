@@ -1,9 +1,9 @@
 <h1 align="center">🅼🅰🆁🆄🅺🅾🅼🅴 マルコメ🥳</h1>
 
 <div align="center">
-  <img src="./images/programming.gif" alt="programming" height="360" width="640">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marukome0743&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marukome0743&layout=compact&theme=tokyonight" alt="top-languages">
+  <img src="./profile/programming.gif" alt="programming" height="360" width="640">
+  <img src="./profile/stats.svg" alt="profile">
+  <img src="./profile/top-langs.svg" alt="top-languages">
 </div>
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
@@ -18,20 +18,20 @@
 [<img src="https://img.shields.io/badge/Python-3776AB?labelColor=000000&logo=python&style=for-the-badge">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Tailwind css-06B6D4?labelColor=000000&logo=tailwindcss&style=for-the-badge">](https://tailwindcss.com/)
 [<img src="https://img.shields.io/badge/Nginx-009639?labelColor=000000&logo=nginx&style=for-the-badge">](https://nginx.org/)
+[<img src="https://img.shields.io/badge/Ansible-EE0000?labelColor=000000&logo=ansible&style=for-the-badge">](https://www.redhat.com/en/ansible-collaborative/)
 [<img src="https://img.shields.io/badge/Docker-2496ED?labelColor=000000&logo=docker&style=for-the-badge">](https://www.docker.com/)
-[<img src="https://img.shields.io/badge/Linux-FCC624?labelColor=000000&logo=linux&style=for-the-badge">](https://kernel.org/)
-[<img src="https://img.shields.io/badge/Git-F05032?labelColor=000000&logo=git&style=for-the-badge">](https://git-scm.com/)
+[<img src="https://img.shields.io/badge/OpenTofu-FFDA18?labelColor=000000&logo=opentofu&style=for-the-badge">](https://opentofu.org/)
 
-<h2 align="center">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</h2>
+<h2 align="center"><a href="https://wakatime.com/@Marukome">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</a></h2>
 
 <!--START_SECTION:waka-->
 
 ```txt
-Other         21 hrs 28 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.95 %
-C++           11 hrs 39 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.73 %
-TypeScript    3 hrs 29 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.60 %
-Markdown      1 hr 30 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.70 %
-YAML          58 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.41 %
+Other          40 hrs          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜   96.02 %
+TOML           43 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.75 %
+Markdown       28 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.16 %
+YAML           19 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.78 %
+JSON           5 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.22 %
 ```
 
 <!--END_SECTION:waka-->
