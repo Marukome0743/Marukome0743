@@ -27,8 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    3 hrs 54 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   99.59 %
-Python   0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
