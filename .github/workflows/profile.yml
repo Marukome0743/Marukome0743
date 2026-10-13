@@ -1,0 +1,85 @@
+name: 🪄 Update profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    paths:
+      - .github/scripts/**
+      - .github/workflows/profile.yml
+  workflow_dispatch:
+
+concurrency:
+  group: profile-${{ github.ref }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: 🎴 Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🎴 Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=default
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🃏 Generate top languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=github_dark
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🃏 Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=default
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake-light.svg
+            profile/snake-dark.svg?palette=github-dark
+
+      - name: 🔭 Update OSS contributions
+        run: python3 .github/scripts/profile.py oss README.md
+
+      - name: 💾 Commit changes
+        env:
+          BRANCH: ${{ github.ref_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          git add -A profile README.md
+          mapfile -t files < <(git diff --cached --name-only --diff-filter=AM)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          python3 .github/scripts/profile.py commit \
+            "$REPO" "$BRANCH" "$(git rev-parse HEAD)" \
+            "docs: update profile" "${files[@]}" > body.json
+          gh api graphql --input body.json
