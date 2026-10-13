@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>491 merged PRs across 71 external repositories · updated 2026-10-13 by GitHub Actions</sub>
+<sub>484 merged PRs across 70 external repositories · updated 2026-10-13 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
