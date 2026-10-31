@@ -22,20 +22,20 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [194](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [145](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [212](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [167](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.6k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 394 | [68](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [60](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.2k | [36](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/Xinyuan-LilyGO.png?size=40" width="20" height="20"> | [Xinyuan-LilyGO/LilyGo-T-SIM7080G](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G) | 143 | [28](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 699 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 700 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-10-30` **aletheia-works/paludarium** — [feat(kernel): hold the port of the side that closed first in TIME_WAIT](https://github.com/aletheia-works/paludarium/pull/227)
-- `2026-10-30` **aletheia-works/formicarium** — [build(deps): bump paludarium-wasm to 0.9.0](https://github.com/aletheia-works/formicarium/pull/194)
+- `2026-10-31` **aletheia-works/paludarium** — [feat(kernel): bound AF_UNIX packet sockets by the sender&#x27;s SO_SNDBUF as Linux does](https://github.com/aletheia-works/paludarium/pull/249)
+- `2026-10-31` **aletheia-works/formicarium** — [docs: mark ADR 0007 as superseded by 0014 and 0015, and say the AWS relay exists](https://github.com/aletheia-works/formicarium/pull/218)
 - `2026-10-28` **aletheia-works/vivarium** — [ci(dependabot): let the bot set up auto-merge so main&#x27;s push workflows run](https://github.com/aletheia-works/vivarium/pull/610)
 - `2026-10-28` **aletheia-works/.github** — [fix(workflows): let the bot set up Dependabot auto-merge so push workflows run](https://github.com/aletheia-works/.github/pull/73)
 - `2026-10-22` **awslabs/aidlc-workflows** — [fix(gates): the gate reply says when Accept as-is is on offer, so a park keeps it](https://github.com/awslabs/aidlc-workflows/pull/2905)
@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>861 merged PRs across 71 external repositories · updated 2026-10-30 by GitHub Actions</sub>
+<sub>901 merged PRs across 71 external repositories · updated 2026-10-31 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
