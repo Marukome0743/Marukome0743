@@ -22,30 +22,30 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [212](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [167](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [232](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [173](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.6k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 394 | [68](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [60](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.2k | [36](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 395 | [68](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [64](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.4k | [36](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/Xinyuan-LilyGO.png?size=40" width="20" height="20"> | [Xinyuan-LilyGO/LilyGo-T-SIM7080G](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G) | 143 | [28](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 700 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-10-31` **aletheia-works/paludarium** — [feat(kernel): bound AF_UNIX packet sockets by the sender&#x27;s SO_SNDBUF as Linux does](https://github.com/aletheia-works/paludarium/pull/249)
-- `2026-10-31` **aletheia-works/formicarium** — [docs: mark ADR 0007 as superseded by 0014 and 0015, and say the AWS relay exists](https://github.com/aletheia-works/formicarium/pull/218)
-- `2026-10-28` **aletheia-works/vivarium** — [ci(dependabot): let the bot set up auto-merge so main&#x27;s push workflows run](https://github.com/aletheia-works/vivarium/pull/610)
+- `2026-11-01` **aletheia-works/paludarium** — [feat(kernel): stamp TCP reads with the time their bytes came](https://github.com/aletheia-works/paludarium/pull/269)
+- `2026-11-01` **aletheia-works/vivarium** — [feat(tools): build jj as a fixed guest](https://github.com/aletheia-works/vivarium/pull/622)
+- `2026-10-31` **aletheia-works/formicarium** — [test(safari): ask for a macOS Safari session again when Safari fails to start](https://github.com/aletheia-works/formicarium/pull/225)
+- `2026-10-31` **jj-vcs/jj** — [web/docs: update astro to 7.4.4 and depend on @astrojs/markdown-remark](https://github.com/jj-vcs/jj/pull/10516)
 - `2026-10-28` **aletheia-works/.github** — [fix(workflows): let the bot set up Dependabot auto-merge so push workflows run](https://github.com/aletheia-works/.github/pull/73)
 - `2026-10-22` **awslabs/aidlc-workflows** — [fix(gates): the gate reply says when Accept as-is is on offer, so a park keeps it](https://github.com/awslabs/aidlc-workflows/pull/2905)
 - `2026-10-07` **aubepkg/aube** — [fix(dlx): resolve relative file: specs from the invoking directory](https://github.com/aubepkg/aube/pull/1708)
 - `2026-10-07` **jdx/pitchfork** — [fix(supervisor): name where a port is taken when a daemon cannot start on it](https://github.com/jdx/pitchfork/pull/1017)
-- `2026-10-03` **jdx/mise** — [fix(task): report a timed-out task as failed even when it exits cleanly](https://github.com/jdx/mise/pull/13930)
 
 </details>
 
-<sub>901 merged PRs across 71 external repositories · updated 2026-10-31 by GitHub Actions</sub>
+<sub>932 merged PRs across 72 external repositories · updated 2026-11-01 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
