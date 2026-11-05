@@ -22,30 +22,30 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [267](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [187](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.7k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [71](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [275](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [198](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.8k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [73](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 397 | [68](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.2k | [36](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.3k | [36](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/Xinyuan-LilyGO.png?size=40" width="20" height="20"> | [Xinyuan-LilyGO/LilyGo-T-SIM7080G](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G) | 143 | [28](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 704 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 709 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-11-04` **aletheia-works/formicarium** — [build(deps): bump paludarium-wasm to 0.11.0](https://github.com/aletheia-works/formicarium/pull/244)
-- `2026-11-04` **aletheia-works/paludarium** — [ci(nightly): run the nightly checks only in the organization&#x27;s repository](https://github.com/aletheia-works/paludarium/pull/311)
-- `2026-11-01` **aletheia-works/vivarium** — [test(wasm): match the jj-10189 envelope fixture to formicarium 0.11.0](https://github.com/aletheia-works/vivarium/pull/644)
+- `2026-11-05` **aletheia-works/formicarium** — [fix(showcase): wait for the assets of a release still uploading](https://github.com/aletheia-works/formicarium/pull/258)
+- `2026-11-05` **aletheia-works/paludarium** — [feat(cpu): run rdtsc, rdssp and fxsave, and add gettimeofday and time](https://github.com/aletheia-works/paludarium/pull/321)
+- `2026-11-04` **aletheia-works/vivarium** — [chore(wasm): bump formicarium to 0.12.0](https://github.com/aletheia-works/vivarium/pull/679)
+- `2026-11-04` **aletheia-works/coi-serviceworker** — [ci: run the tooling on Bun instead of Node](https://github.com/aletheia-works/coi-serviceworker/pull/20)
 - `2026-10-31` **jj-vcs/jj** — [web/docs: update astro to 7.4.4 and depend on @astrojs/markdown-remark](https://github.com/jj-vcs/jj/pull/10516)
 - `2026-10-28` **aletheia-works/.github** — [fix(workflows): let the bot set up Dependabot auto-merge so push workflows run](https://github.com/aletheia-works/.github/pull/73)
 - `2026-10-22` **awslabs/aidlc-workflows** — [fix(gates): the gate reply says when Accept as-is is on offer, so a park keeps it](https://github.com/awslabs/aidlc-workflows/pull/2905)
 - `2026-10-07` **aubepkg/aube** — [fix(dlx): resolve relative file: specs from the invoking directory](https://github.com/aubepkg/aube/pull/1708)
-- `2026-10-07` **jdx/pitchfork** — [fix(supervisor): name where a port is taken when a daemon cannot start on it](https://github.com/jdx/pitchfork/pull/1017)
 
 </details>
 
-<sub>988 merged PRs across 72 external repositories · updated 2026-11-04 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 66 external repositories · updated 2026-11-05 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
