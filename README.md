@@ -22,22 +22,22 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [281](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [201](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.8k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [75](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 0 | [292](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [202](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.9k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [77](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 397 | [68](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.4k | [32](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/Xinyuan-LilyGO.png?size=40" width="20" height="20"> | [Xinyuan-LilyGO/LilyGo-T-SIM7080G](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G) | 143 | [28](https://github.com/Xinyuan-LilyGO/LilyGo-T-SIM7080G/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 712 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/vercel.png?size=40" width="20" height="20"> | [vercel/next.js](https://github.com/vercel/next.js) | 143.4k | [22](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
+- `2026-11-07` **aletheia-works/formicarium** — [fix(browser): start the core from blob: URLs so WebKit cannot refuse its Workers](https://github.com/aletheia-works/formicarium/pull/270)
+- `2026-11-07` **aletheia-works/vivarium** — [docs(layer1): drop pinned guest values from the jj-10189 README](https://github.com/aletheia-works/vivarium/pull/696)
+- `2026-11-07` **aletheia-works/paludarium** — [fix(kernel): keep getdents64&#x27;s place when returned entries are unlinked](https://github.com/aletheia-works/paludarium/pull/340)
 - `2026-11-06` **Dolibarr/dolibarr** — [FIX REST API: POST /shipments/{id}/lines stores a kit without its components](https://github.com/Dolibarr/dolibarr/pull/42732)
-- `2026-11-05` **aletheia-works/paludarium** — [ci(guests): build and compare guests on Ubuntu 26.04](https://github.com/aletheia-works/paludarium/pull/329)
-- `2026-11-05` **aletheia-works/vivarium** — [feat(layer3): serve previews through CloudFront on Lambda Web Functions](https://github.com/aletheia-works/vivarium/pull/683)
-- `2026-11-05` **aletheia-works/formicarium** — [feat(showcase-site): build and accept the site with bun](https://github.com/aletheia-works/formicarium/pull/261)
 - `2026-11-04` **aletheia-works/coi-serviceworker** — [ci: run the tooling on Bun instead of Node](https://github.com/aletheia-works/coi-serviceworker/pull/20)
 - `2026-10-31` **jj-vcs/jj** — [web/docs: update astro to 7.4.4 and depend on @astrojs/markdown-remark](https://github.com/jj-vcs/jj/pull/10516)
 - `2026-10-28` **aletheia-works/.github** — [fix(workflows): let the bot set up Dependabot auto-merge so push workflows run](https://github.com/aletheia-works/.github/pull/73)
@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>1,000 merged PRs across 60 external repositories · updated 2026-11-06 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 56 external repositories · updated 2026-11-07 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
