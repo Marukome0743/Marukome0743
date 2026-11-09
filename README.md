@@ -22,30 +22,30 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 1 | [309](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 1 | [352](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [205](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 35.9k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 36.0k | [132](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [103](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 398 | [68](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 712 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/Dokploy.png?size=40" width="20" height="20"> | [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 38.3k | [19](https://github.com/Dokploy/dokploy/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/conventional-changelog.png?size=40" width="20" height="20"> | [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) | 18.8k | [16](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 713 | [23](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [14](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/Dokploy.png?size=40" width="20" height="20"> | [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 38.3k | [14](https://github.com/Dokploy/dokploy/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-11-08` **aletheia-works/paludarium** — [feat(kernel): add sched_setaffinity, and compare 15 more kinds of Debian programs](https://github.com/aletheia-works/paludarium/pull/362)
+- `2026-11-09` **aletheia-works/paludarium** — [feat(kernel): give ETXTBSY between a running program&#x27;s file and writes to it](https://github.com/aletheia-works/paludarium/pull/406)
+- `2026-11-08` **duplicati/duplicati** — [Fix memory growth when backing up macOS Photos](https://github.com/duplicati/duplicati/pull/7736)
 - `2026-11-07` **aletheia-works/.github** — [docs(profile): describe every current project and invite new members](https://github.com/aletheia-works/.github/pull/85)
 - `2026-11-07` **aletheia-works/vivarium** — [docs(layer2): describe each recipe&#x27;s verdict as Contract v1 does now](https://github.com/aletheia-works/vivarium/pull/722)
 - `2026-11-07` **aletheia-works/coi-serviceworker** — [chore: name the maintainers team as the code owner](https://github.com/aletheia-works/coi-serviceworker/pull/22)
 - `2026-11-07` **aletheia-works/formicarium** — [chore: name the maintainers team as the code owner](https://github.com/aletheia-works/formicarium/pull/274)
 - `2026-11-06` **Dolibarr/dolibarr** — [FIX REST API: POST /shipments/{id}/lines stores a kit without its components](https://github.com/Dolibarr/dolibarr/pull/42732)
 - `2026-10-31` **jj-vcs/jj** — [web/docs: update astro to 7.4.4 and depend on @astrojs/markdown-remark](https://github.com/jj-vcs/jj/pull/10516)
-- `2026-10-22` **awslabs/aidlc-workflows** — [fix(gates): the gate reply says when Accept as-is is on offer, so a park keeps it](https://github.com/awslabs/aidlc-workflows/pull/2905)
 
 </details>
 
-<sub>1,000 merged PRs across 48 external repositories · updated 2026-11-08 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 46 external repositories · updated 2026-11-09 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
