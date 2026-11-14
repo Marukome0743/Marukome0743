@@ -22,21 +22,21 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 1 | [483](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [212](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [104](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 1 | [500](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [215](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [105](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 399 | [67](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 36.1k | [61](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 714 | [22](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 36.1k | [41](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 716 | [22](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [15](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/awslabs.png?size=40" width="20" height="20"> | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 6.1k | [12](https://github.com/awslabs/aidlc-workflows/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-11-13` **aletheia-works/paludarium** — [fix(kernel): check each netlink request&#x27;s attributes against Linux&#x27;s policies before all else](https://github.com/aletheia-works/paludarium/pull/548)
-- `2026-11-13` **aletheia-works/formicarium** — [chore: run guest containers as amd64 and tidy CI and Biome config](https://github.com/aletheia-works/formicarium/pull/293)
-- `2026-11-11` **aletheia-works/vivarium** — [chore(actions): pin aletheia-works/.github v1.4.1, so the bot&#x27;s autofix push gets reviewed](https://github.com/aletheia-works/vivarium/pull/727)
+- `2026-11-14` **aletheia-works/paludarium** — [fix(kernel): mark a process dying as any fatal signal is sent, for process_mrelease](https://github.com/aletheia-works/paludarium/pull/574)
+- `2026-11-13` **aletheia-works/formicarium** — [refactor: fix the remaining actionable Biome warnings](https://github.com/aletheia-works/formicarium/pull/297)
+- `2026-11-13` **aletheia-works/vivarium** — [fix(docs): let formicarium ship THIRD-PARTY-NOTICES.txt beside its core](https://github.com/aletheia-works/vivarium/pull/730)
 - `2026-11-11` **aletheia-works/coi-serviceworker** — [chore(actions): pin aletheia-works/.github v1.4.1, so the bot&#x27;s autofix push gets reviewed](https://github.com/aletheia-works/coi-serviceworker/pull/27)
 - `2026-11-11` **aletheia-works/.github** — [fix(workflows): let aletheia-works-bot&#x27;s autofix push start the Claude review](https://github.com/aletheia-works/.github/pull/88)
 - `2026-11-08` **duplicati/duplicati** — [Fix memory growth when backing up macOS Photos](https://github.com/duplicati/duplicati/pull/7736)
@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>1,000 merged PRs across 20 external repositories · updated 2026-11-13 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 19 external repositories · updated 2026-11-14 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
