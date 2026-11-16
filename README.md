@@ -22,19 +22,19 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 1 | [544](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 1 | [594](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [216](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [106](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 399 | [55](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 716 | [22](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [15](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/awslabs.png?size=40" width="20" height="20"> | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 6.1k | [12](https://github.com/awslabs/aidlc-workflows/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/jdx.png?size=40" width="20" height="20"> | [jdx/mise](https://github.com/jdx/mise) | 36.2k | [8](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aquaproj.png?size=40" width="20" height="20"> | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | 399 | [10](https://github.com/aquaproj/aqua-registry/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aubepkg.png?size=40" width="20" height="20"> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.1k | [7](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-11-15` **aletheia-works/paludarium** — [feat(kernel): add mount and umount2 for tmpfs, with a mount table per mount namespace](https://github.com/aletheia-works/paludarium/pull/618)
+- `2026-11-16` **aletheia-works/paludarium** — [ci(coverage): share the core and workspace gates&#x27; run in quality.yml and mise run coverage](https://github.com/aletheia-works/paludarium/pull/672)
 - `2026-11-14` **aletheia-works/formicarium** — [build(deps): update paludarium to 0.16.0](https://github.com/aletheia-works/formicarium/pull/298)
 - `2026-11-14` **aletheia-works/vivarium** — [chore(previews): retire the motionEye 3523 and dev-7b7ab1c previews](https://github.com/aletheia-works/vivarium/pull/732)
 - `2026-11-11` **aletheia-works/coi-serviceworker** — [chore(actions): pin aletheia-works/.github v1.4.1, so the bot&#x27;s autofix push gets reviewed](https://github.com/aletheia-works/coi-serviceworker/pull/27)
@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>1,000 merged PRs across 18 external repositories · updated 2026-11-15 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 15 external repositories · updated 2026-11-16 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
