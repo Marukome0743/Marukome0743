@@ -22,9 +22,9 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 2 | [707](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [183](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [84](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 2 | [716](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [179](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [80](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [14](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/Dolibarr.png?size=40" width="20" height="20"> | [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) | 7.9k | [5](https://github.com/Dolibarr/dolibarr/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/coi-serviceworker](https://github.com/aletheia-works/coi-serviceworker) | 0 | [3](https://github.com/aletheia-works/coi-serviceworker/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
@@ -34,7 +34,7 @@
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-11-20` **aletheia-works/paludarium** — [feat(kernel): read the host&#x27;s NTP state in adjtimex and clock_adjtime on native Linux](https://github.com/aletheia-works/paludarium/pull/833)
+- `2026-11-21` **aletheia-works/paludarium** — [chore(linux-dev): let reference runs write the sysctls of the container&#x27;s own namespaces](https://github.com/aletheia-works/paludarium/pull/866)
 - `2026-11-19` **duplicati/duplicati** — [Find created APFS snapshot by date instead of last listed snapshot](https://github.com/duplicati/duplicati/pull/7920)
 - `2026-11-19` **aletheia-works/formicarium** — [build(deps): update paludarium to 0.17.0](https://github.com/aletheia-works/formicarium/pull/311)
 - `2026-11-14` **aletheia-works/vivarium** — [chore(previews): retire the motionEye 3523 and dev-7b7ab1c previews](https://github.com/aletheia-works/vivarium/pull/732)
@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>1,000 merged PRs across 9 external repositories · updated 2026-11-20 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 8 external repositories · updated 2026-11-21 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
