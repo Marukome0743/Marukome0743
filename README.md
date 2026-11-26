@@ -22,10 +22,10 @@
 <!--START_SECTION:oss-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 2 | [802](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [123](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [54](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
-| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [10](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 2 | [828](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [104](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [48](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
+| <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [9](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/Dolibarr.png?size=40" width="20" height="20"> | [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) | 7.9k | [5](https://github.com/Dolibarr/dolibarr/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/aletheia-works.png?size=40" width="20" height="20"> | [aletheia-works/coi-serviceworker](https://github.com/aletheia-works/coi-serviceworker) | 0 | [3](https://github.com/aletheia-works/coi-serviceworker/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
 | <img src="https://github.com/duplicati.png?size=40" width="20" height="20"> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [2](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AMarukome0743+is%3Amerged) |
@@ -34,7 +34,7 @@
 <details>
 <summary><b>🆕 Latest merged pull requests</b></summary>
 
-- `2026-11-25` **aletheia-works/paludarium** — [fix(dev): read a case&#x27;s outcome in linux-dev-compare when it stands alone on a line](https://github.com/aletheia-works/paludarium/pull/1044)
+- `2026-11-26` **aletheia-works/paludarium** — [fix(mmu): fault an instruction that reads and writes memory once, as a write](https://github.com/aletheia-works/paludarium/pull/1090)
 - `2026-11-21` **aletheia-works/vivarium** — [feat(layer3): move the motionEye #3524 preview to 663a5be](https://github.com/aletheia-works/vivarium/pull/747)
 - `2026-11-19` **duplicati/duplicati** — [Find created APFS snapshot by date instead of last listed snapshot](https://github.com/duplicati/duplicati/pull/7920)
 - `2026-11-19` **aletheia-works/formicarium** — [build(deps): update paludarium to 0.17.0](https://github.com/aletheia-works/formicarium/pull/311)
@@ -45,7 +45,7 @@
 
 </details>
 
-<sub>1,000 merged PRs across 8 external repositories · updated 2026-11-25 by GitHub Actions</sub>
+<sub>1,000 merged PRs across 8 external repositories · updated 2026-11-26 by GitHub Actions</sub>
 <!--END_SECTION:oss-->
 
 ## 🛠️ Tech stack
